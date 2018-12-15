@@ -19,7 +19,7 @@ public class BaseballCoach implements Coach {
 		}
 		@Override
 		public String getDailyWorkout() {
-			return "treksimataki 30 min";
+			return "treksimp 30 min";
 		}
 
 		
